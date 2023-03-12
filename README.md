@@ -33,8 +33,7 @@ the bond monthly payments, at different payment periods and interest rates.
 ## Installation
 
 * [Install python](https://www.python.org/downloads/)
-* Run programm on cmd
-* Programm path
+* Run programm on cmd or any Python IDE
 
 ```
 python finance_calculators.py
